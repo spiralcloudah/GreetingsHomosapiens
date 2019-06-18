@@ -4,9 +4,7 @@
 `This app allows a user to edit the text on the Android screen, change the color of the text, and change the color of the background.
 
 ### App Walk-though
-<img src="
-
-" width=200><br>
+<img src="greetings-homo sapiens-demo.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
