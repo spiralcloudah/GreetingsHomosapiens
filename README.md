@@ -1,7 +1,7 @@
 ## GreetingsHomosapiens
 
 ### App Description
-`This app allows a user to edit the text on the Android screen, change the color of the text, and change the color of the background. 
+This app allows a user to edit the text on the Android screen, change the color of the text, and change the color of the background. 
 
 ### App Walk-though
 <img src="greetings-homo-sapiens-demo.gif" width=200><br>
